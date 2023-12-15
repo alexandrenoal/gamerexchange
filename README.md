@@ -1,3 +1,5 @@
+https://github.com/alexandrenoal/gamerexchange/issues/2#issue-2044150957
+
 GAMEREXCHANGE
 
 - 🔭 Este é um projeto que inicializei em meu TCC e com o passar do tempo, fui adicionando novas funcionalidades.
