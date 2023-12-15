@@ -7,4 +7,4 @@ GAMEREXCHANGE
 - 📄 projeto original foi desenvolvido em PHP puro e aos poucos estou migrando para o Laravel. A aplição em laravel também pode ser encontrada aqui no meu repositório, gamerxechangelaravel.
 
 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
