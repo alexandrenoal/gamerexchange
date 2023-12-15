@@ -1,4 +1,4 @@
-![logo](https://github.com/alexandrenoal/gamerexchange/assets/73001363/4fe7944f-2fe5-468e-a6f2-4035c43a044a) <h1 color"ogange">GAMEREXCHANGE</h1>
+![logo](https://github.com/alexandrenoal/gamerexchange/assets/73001363/4fe7944f-2fe5-468e-a6f2-4035c43a044a) <h1 color="ogange">GAMEREXCHANGE</h1>
 
 - 🔭 Este é um projeto que inicializei em meu TCC e com o passar do tempo, fui adicionando novas funcionalidades.
   
