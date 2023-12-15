@@ -1,4 +1,4 @@
-![logo](https://github.com/alexandrenoal/gamerexchange/assets/73001363/9aaab78a-f027-4e28-afcd-e611ed29fdf0) GAMEREXCHANGE
+[![logo](https://github.com/alexandrenoal/gamerexchange/assets/73001363/9aaab78a-f027-4e28-afcd-e611ed29fdf0)](https://github.com/alexandrenoal/gamerexchange/issues/2#issue-2044150957) GAMEREXCHANGE
 
 - 🔭 Este é um projeto que inicializei em meu TCC e com o passar do tempo, fui adicionando novas funcionalidades.
   
