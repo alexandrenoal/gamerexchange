@@ -1,6 +1,6 @@
 GAMEREXCHANGE
 
-- 🔭 Este é um projeto que inicializei em meu TCC e com o passar do tempo aos poucos fui adicionando funcionalidades.
+- 🔭 Este é um projeto que inicializei em meu TCC e com o passar do tempo, fui adicionando novas funcionalidades.
   
 - 🌱 Trata-se de uma rede social voltado ao público gamer que possui ou coleciona consóles e mídias físicas.
   
